@@ -1,4 +1,4 @@
-# AJAX_and_APIs
-AJAX_and_APIs
+# Asynchronous JavaScript
+Asynchronous JavaScript
 
 ## 1. AJAX Call : XMLHttpRequest
